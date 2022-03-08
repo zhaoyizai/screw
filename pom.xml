@@ -76,7 +76,7 @@
         <slf4j-api.version>1.7.30</slf4j-api.version>
         <logback-classic.version>1.2.3</logback-classic.version>
         <fastjson.version>1.2.72</fastjson.version>
-        <poi.version>4.1.2</poi.version>
+        <poi.version>5.2.1</poi.version>
         <commons-lang.version>2.6</commons-lang.version>
         <maven-plugin-api.version>3.6.3</maven-plugin-api.version>
         <maven-plugin-plugin.version>3.6.0</maven-plugin-plugin.version>
